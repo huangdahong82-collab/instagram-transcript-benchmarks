@@ -1,0 +1,28 @@
+﻿suite,test_id,date,condition,setting,reference_words,words_matched,response_words,verbatim_output,note,source_url
+writing,W-01,2026-10-17,silence,six seconds of digital silence,0,,338,"Thank you very much repeated until the model stopped",success true in 19.66 s; zero spoken words in the input,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-02,2026-10-17,line breaks,54-second narration,114,114,114,,one paragraph with zero line breaks on both runs,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-03,2026-10-17,numbers,two hundred dollars,4,4,,$200,rewritten as digits,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-04,2026-10-17,numbers,fifteen forty five spoken as a time,3,3,,$15.45,a time became money,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-05,2026-10-17,numbers,nineteen ninety nine,3,3,,1999,rewritten as digits,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-06,2026-10-17,numbers,one thousand two hundred dollars,5,5,,"$1,200",rewritten as digits,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-07,2026-10-17,numbers,three point five percent,4,4,,3.5%,rewritten as digits,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-08,2026-10-17,numbers,twenty twenty five,3,3,,2020-25,a year turned into a range,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-09,2026-10-17,numbers,a quarter past nine,4,4,,a quarter past nine,the only one of the eight number phrases that survived as spoken,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-10,2026-10-17,negation,I can come on Friday but I can't come on Saturday,11,10,11,I can't come on Friday but I can't come on Saturday,a negation appeared where none was spoken; second run identical,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-11,2026-10-17,grammar,She don't like coffee,4,4,4,She don't like coffee,error left unchanged,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-12,2026-10-17,grammar,He go to school yesterday,5,5,5,He go to school yesterday,error left unchanged,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-13,2026-10-17,grammar,We was late for the class,6,6,6,We was late for the class,error left unchanged,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-14,2026-10-17,grammar,I has three brother,4,4,4,"I has three, brother",a comma appeared; the error stayed,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-15,2026-10-17,grammar,I am agree with you,5,2,5,"Hi, and agree with you",a different mistake replaced the original,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-16,2026-10-17,expansion,I was gonna go to the store,7,,,I was gone to go to the store,the expansion moved the meaning,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-17,2026-10-17,expansion,they're ready to go,4,,,they were ready to go,the expansion moved the meaning,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-18,2026-10-17,loanword,We ate a croissant and then watched karaoke in Barcelona,9,8,9,We ate a kwasan and then watched karaoke in Barcelona,the French word was respelled by sound; the city and the borrowed Japanese word survived,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-19,2026-10-17,speed,baseline,19,16,19,,same file used for the speed ladder,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-20,2026-10-17,speed,0.80x,19,16,19,,no change,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-21,2026-10-17,speed,0.90x,19,16,19,,no change,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-22,2026-10-17,speed,1.15x,19,16,19,,no change,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-23,2026-10-17,speed,1.30x,19,15,19,,closed became blows,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-24,2026-10-17,level,-20 dB recording level,12,10,12,,same as baseline,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-25,2026-10-17,level,-30 dB recording level,12,10,12,,same as baseline,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-26,2026-10-17,filter,low-pass at 1.5 kHz,12,10,12,,same as baseline; band above 3 kHz measured 35 dB down so the file really did change,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+writing,W-27,2026-10-17,filter,round trip down to 8 kHz and back,12,10,12,,same as baseline,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
