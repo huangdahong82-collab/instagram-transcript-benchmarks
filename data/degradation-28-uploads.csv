@@ -1,0 +1,17 @@
+﻿suite,test_id,date,condition,setting,reference_words,words_matched,response_words,verbatim_output,note,source_url
+degradation,D-01,2026-10-02,sample rate,8 kHz mono,29,29,29,,clean decode,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-02,2026-10-02,sample rate,16 kHz mono,29,29,29,,clean decode,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-03,2026-10-02,sample rate,22.05 kHz mono,29,29,29,,clean decode,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-04,2026-10-02,sample rate,44.1 kHz stereo 320 kbps,29,29,29,,clean decode,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-05,2026-10-02,bitrate,32 kbps MP3,29,29,29,,two punctuation marks changed,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-06,2026-10-02,band limit,300-3400 Hz telephone band,29,29,29,,punctuation changed,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-07,2026-10-02,level,speech at 5%,29,29,29,,no competing noise,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-08,2026-10-02,level,speech at 30%,29,29,29,,no competing noise,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-09,2026-10-02,speed,1.6x playback,29,29,29,,clean decode,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-10,2026-10-02,masking,pink noise at half speech level,29,29,29,,clean decode,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-11,2026-10-02,masking,synthesised three-note chord at equal level,29,29,29,,clean decode,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-12,2026-10-02,masking,speech 5% with noise at 30%,29,,1,nd,reproduced three times; success true,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-13,2026-10-02,masking,speech 5% with noise at 10%,29,,29,"This is a test of the Instagram transfer tool. The fifth round box comes from the village exhaust.",not scored word by word; identical output on two runs; reference was The quick brown fox jumps over the lazy dog.,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-14,2026-10-02,masking,speech 20% with noise at 30%,29,,,"The cookground talk jumped over the lazy job.",not scored word by word; stable across runs,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-15,2026-10-02,masking,noise three times louder than speech,29,,37,"Hello, Appi. This is the site of the East of the East, and it's very beautiful.",37 invented words; not scored word by word,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
+degradation,D-16,2026-10-02,transient failure,8 kHz re-upload attempt 1,29,0,0,"Transcription failed. Please try another supported file.",HTTP 500; same file returned 29 of 29 on the next two attempts,https://transcriptreel.com/blog/how-accurate-is-whisper-on-instagram-audio
