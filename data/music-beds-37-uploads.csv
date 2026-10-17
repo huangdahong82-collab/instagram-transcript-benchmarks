@@ -1,0 +1,24 @@
+﻿suite,test_id,date,condition,setting,reference_words,words_matched,response_words,verbatim_output,note,source_url
+music,M-01,2026-10-07,pad bed (three-note sustained),0.25x voice level,29,29,29,,clean decode,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-02,2026-10-07,pad bed (three-note sustained),0.5x voice level,29,29,29,,clean decode,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-03,2026-10-07,pad bed (three-note sustained),1x voice level,29,29,29,,clean decode,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-04,2026-10-07,pad bed (three-note sustained),2x voice level,29,29,29,,clean decode,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-05,2026-10-07,pad bed (three-note sustained),4x voice level,29,29,29,,clean decode,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-06,2026-10-07,bass-heavy bed,0.5x to 4x voice level,29,29,29,,article reports the whole 0.5x-4x range as 29 of 29,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-07,2026-10-07,drum bed,up to 2x voice level,29,29,29,,clean decode,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-08,2026-10-07,drum bed,4x voice level,29,28,29,,one word lost,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-09,2026-10-07,dense broadband mix,6 dB below voice,29,29,29,,clean decode,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-10,2026-10-07,dense broadband mix,equal level,29,28,29,,brown came back as ground,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-11,2026-10-07,dense broadband mix,6 dB above voice,29,24,29,,Instagram transcript tool became Instagram Transfer Tool and quick brown fox became quick round box,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-12,2026-10-07,dense broadband mix,12 dB above voice,29,15,32,,fluent but shares almost nothing with what was said,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-13,2026-10-07,dense broadband mix,voice at one quarter of music level,29,16,29,,fluent but wrong,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-14,2026-10-07,dense broadband mix,voice at one tenth of music level,29,,2,I'm,collapse to two characters; not scored word by word,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-15,2026-10-07,second voice as stand-in for sung lyrics,6 dB above target voice,29,8,164,,"transcribed the wrong track; long grammatical invented paragraph",https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-16,2026-10-07,repair attempt,high-pass filter at 100 Hz on the worst file,29,,,,"byte-identical transcript to the unfiltered file",https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-17,2026-10-07,repair attempt,loudness normalisation on the worst file,29,,,,"byte-identical transcript",https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-18,2026-10-07,repair attempt,noise reduction on the worst file,29,10,,,dropped from 15 of 29 to 10 of 29,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-19,2026-10-07,repair attempt,downsample to 8 kHz,29,0,0,"Transcription failed. Please try another supported file.",HTTP 500,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-20,2026-10-07,repair attempt,cut into four-second chunks,29,10,,,first chunk scored 10 of 29,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-21,2026-10-07,repair attempt,cut into four-second chunks,29,6,,,second chunk scored 6 of 29,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-22,2026-10-07,repair attempt,cut into four-second chunks,29,4,,,third chunk scored 4 of 29,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
+music,M-23,2026-10-07,trimming,six-second music-only intro removed before upload,29,29,29,,no invented padding,https://transcriptreel.com/blog/does-transcription-work-on-music-heavy-reels
