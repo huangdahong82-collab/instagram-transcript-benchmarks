@@ -1,0 +1,8 @@
+﻿suite,test_id,date,condition,setting,reference_words,words_matched,response_words,verbatim_output,note,source_url
+latency,L-01,2026-10-17,file size,54 s narration as 1.74 MB WAV run 1,114,114,114,,29.15 s wall clock,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+latency,L-02,2026-10-17,file size,54 s narration as 1.74 MB WAV run 2,114,114,114,,20.50 s wall clock,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+latency,L-03,2026-10-17,file size,54 s narration as 436 KB 64 kbps MP3,114,114,114,,19.66 s wall clock; identical text to the WAV runs,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+latency,L-04,2026-10-17,warm model,five and six second clips,0,,,,"0.84 s to 3.34 s once the model was warm",https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+latency,L-05,2026-10-17,cold start,first upload of a session,0,,,,19.41 s,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+latency,L-06,2026-10-17,silence,six seconds of digital silence,0,,338,"Thank you very much repeated until the model stopped",19.66 s,https://transcriptreel.com/blog/instagram-transcript-for-non-native-speakers
+latency,L-07,2026-10-12,short file,ten second accented renders 36 uploads,32,,,,"0.87 s to 7.39 s including upload",https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
