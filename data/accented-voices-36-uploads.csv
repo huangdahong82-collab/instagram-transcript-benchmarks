@@ -1,0 +1,16 @@
+﻿suite,test_id,date,condition,setting,reference_words,words_matched,response_words,verbatim_output,note,source_url
+accent,A-01,2026-10-12,voice,US English female slt 311 KB 9.96 s,32,32,32,,2.06 s wall clock,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-02,2026-10-12,voice,US English male kal 311 KB 9.96 s,32,32,32,,2.60 s wall clock,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-03,2026-10-12,voice,US English male rms 333 KB 10.66 s,32,29,32,,thin ships became thinships and sail became sailed,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-04,2026-10-12,voice,Scottish English awb 302 KB 9.66 s,32,28,32,,thin ships became thinship; sail became sale; red rice came back as Red Rice,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-05,2026-10-12,speed,clean render at 0.70x,32,32,32,,nothing to fix,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-06,2026-10-12,speed,clean render at 0.85x,32,32,32,,nothing to fix,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-07,2026-10-12,speed,clean render at 1.15x,32,31,32,,one word lost,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-08,2026-10-12,speed,clean render at 1.35x,32,32,32,,nothing to fix,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-09,2026-10-12,speed,damaged render at 0.75x,32,29,32,,error set changes with speed,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-10,2026-10-12,speed,damaged render at 1.05x,32,27,32,,error set changes with speed,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-11,2026-10-12,speed,damaged render at 1.15x,32,31,32,,repeated identically across four separate runs,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-12,2026-10-12,speed,damaged render at 1.25x,32,29,32,,error set changes with speed,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-13,2026-10-12,speed,damaged render at 1.35x,32,27,32,,worst of the five; thin ships became an obscene token; past the village became pasta village; brown fox became breakfast,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-14,2026-10-12,repeat,Scottish render second run,32,28,32,,identical text to the first run,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
+accent,A-15,2026-10-12,repeat,clean render second run,32,32,32,,identical text to the first run,https://transcriptreel.com/blog/why-accented-speech-changes-transcript-quality
